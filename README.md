@@ -8,26 +8,26 @@
 <h1 align="center">Detcoins</h1>
 
 <p align="center">
-  <strong>A privately owned marketplace for Marine Security Guard challenge coins and unit merch.</strong><br>
-  Shop authentic coins from embassy posts worldwide. Marines list the case. Verified vendors keep it stocked. 100% of proceeds fund detachment MWR.
+  <strong>A privately owned web marketplace for Marine Security Guard challenge coins and unit merch.</strong><br>
+  Civilians shop authentic coins from embassy posts worldwide. Marines run their case. Verified vendors keep it stocked. 100% of proceeds fund detachment MWR.
 </p>
 
-<p align="center"><em>Coming soon · An independently owned and operated web service</em></p>
+<p align="center"><em>Coming soon · Independently owned and operated — nothing to download</em></p>
 
 <p align="center">
-  <a href="#shop-the-case">Shop</a> ·
+  <a href="#the-marketplace">The marketplace</a> ·
   <a href="#worldwide-guard-posts">Detachments</a> ·
   <a href="#the-weekly-watchstander">Weekly Watch</a> ·
-  <a href="#for-marines">For Marines</a> ·
-  <a href="#for-verified-vendors">For Vendors</a> ·
+  <a href="#for-marines">Marines</a> ·
+  <a href="#for-verified-vendors">Vendors</a> ·
   <a href="#get-on-detcoins">Get access</a>
 </p>
 
 <p align="center">
-  <img src="public/landing/det-tokyo-hero.png" alt="Det of the Month — MSG Det Tokyo at the embassy gate" width="920">
+  <img src="docs/screenshots/home-hero.png" alt="Detcoins homepage — Det of the Month, MSG Det Tokyo" width="920">
 </p>
 
-<p align="center"><em>Det of the Month: MSG Det Tokyo · U.S. Embassy Tokyo — “Sunrise on Takao. Coins on the rail.”</em></p>
+<p align="center"><em>Homepage · Det of the Month: MSG Det Tokyo · “Sunrise on Takao. Coins on the rail.”</em></p>
 
 ---
 
@@ -35,7 +35,7 @@
 
 Marine Security Guards stand the rail at U.S. Embassies and Consulates around the world. Each detachment mints its own challenge coins, morale patches, and unit gear. Until now, those cases lived in a group chat, a barracks drawer, or a one-off Instagram post.
 
-**Detcoins** is the web service that opens that world:
+**Detcoins** is the hosted marketplace that opens that world in the browser:
 
 - **Civilians and collectors** buy authentic, det-specific coins and send money straight back to the watchstanders.
 - **Marines** run a public profile, list inventory, track MWR earnings, and compete for Det of the Month.
@@ -43,92 +43,67 @@ Marine Security Guards stand the rail at U.S. Embassies and Consulates around th
 
 Every purchase is a vote for the det doing the work — rucks, balls, long weekends, and the unclassified stories that make the rest of the community proud.
 
-Detcoins is independently owned and operated. It is not a download, a toolkit, or an official government site — it is a hosted marketplace you sign into and use.
-
 ---
 
-## Three ways in
+## The marketplace
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>For Marines</h3>
-      <p>Claim your detachment profile, list coins and merch, log MWR trips, and submit unclassified adventures to win <strong>Det of the Month</strong>.</p>
-      <p><em>Request a Marine portal account →</em></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>For civilians</h3>
-      <p>Shop coins, shirts, patches, and gear by embassy, region, or det. Buy from the homepage, the marketplace, or a detachment’s own case.</p>
-      <p><em>Browse the marketplace when we go live →</em></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>For verified vendors</h3>
-      <p>See which posts are low on stock, sponsor a coin run, and send resupply offers that respect a deployment cycle.</p>
-      <p><em>Apply as a verified partner →</em></p>
-    </td>
-  </tr>
-</table>
+Shop coins, shirts, patches, and gear by embassy, region, or det. Search the catalog, filter by category, and buy in two clicks. Checkout names the MWR mission your order funds.
 
----
+<p align="center">
+  <img src="docs/screenshots/marketplace.png" alt="Detcoins marketplace — Global Detachment Exchange" width="920">
+</p>
 
-## Shop the case
+<p align="center">
+  <img src="docs/screenshots/marketplace-grid.png" alt="Tokyo Cherry Blossom and Berlin Gate coins in the marketplace" width="920">
+</p>
 
-Each post mints its own inventory. On Detcoins you browse **top sellers** on the homepage, filter the catalog by category, region, or detachment, or open a det’s public case and buy in two clicks.
-
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="public/landing/coin-tokyo.png" alt="Tokyo Cherry Blossom Coin"><br><sub>Tokyo Cherry Blossom</sub></td>
-    <td align="center" width="25%"><img src="public/landing/coin-nairobi.png" alt="Nairobi Lion Gate Coin"><br><sub>Nairobi Lion Gate</sub></td>
-    <td align="center" width="25%"><img src="public/landing/coin-berlin.png" alt="Berlin Gate Coin"><br><sub>Berlin Gate</sub></td>
-    <td align="center" width="25%"><img src="public/landing/coin-bogota.png" alt="Bogotá Condor Coin"><br><sub>Bogotá Condor</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="public/landing/coin-singapore.png" alt="Singapore Harbor Coin"><br><sub>Singapore Harbor</sub></td>
-    <td align="center"><img src="public/landing/coin-cairo.png" alt="Cairo Sun Disk Coin"><br><sub>Cairo Sun Disk</sub></td>
-    <td align="center"><img src="public/landing/coin-london.png" alt="London Crown Coin"><br><sub>London Crown</sub></td>
-    <td align="center"><img src="public/landing/coin-honolulu.png" alt="Honolulu Hibiscus Coin"><br><sub>Honolulu Hibiscus</sub></td>
-  </tr>
-</table>
-
-| Coin | Detachment | Post |
-| --- | --- | --- |
-| Tokyo Cherry Blossom Coin | MSG Det Tokyo | U.S. Embassy Tokyo |
-| Nairobi Lion Gate Coin | MSG Det Nairobi | U.S. Embassy Nairobi |
-| Berlin Gate Coin | MSG Det Berlin | U.S. Embassy Berlin |
-| Bogotá Condor Coin | MSG Det Bogotá | U.S. Embassy Bogotá |
-| Singapore Harbor Coin | MSG Det Singapore | U.S. Embassy Singapore |
-| Cairo Sun Disk Coin | MSG Det Cairo | U.S. Embassy Cairo |
-| London Crown Coin | MSG Det London | U.S. Embassy London |
-| Honolulu Hibiscus Coin | MSG Det Honolulu | U.S. Indo-Pacific Command |
+<p align="center">
+  <img src="docs/screenshots/checkout.png" alt="Checkout — supporting MSG Det Tokyo and the Mt. Fuji MWR mission" width="920">
+</p>
 
 **How shopping works**
 
 1. Open the **Marketplace** and filter by coins, shirts, patches, magnets, stickers, or gear.
 2. Search by embassy, city, or det — Tokyo, Berlin, Nairobi, and the rest of the roster.
-3. Hit **Support Det** or **Quick Buy**. Checkout shows the item, quantity, shipping, and which MWR goal the sale funds.
+3. Hit **Support Det**. Checkout shows the item, quantity, shipping, and which MWR goal the sale funds.
 4. Confirmation: *Semper Fi. Order placed to support the det.*
 
-Proceeds are tied to each detachment’s live MWR goal — for example, Tokyo’s *Mt. Fuji Summit Expedition & 251st Ball Tickets*.
+Each listing is tied to a live mission — for example, Tokyo’s *Mt. Fuji Summit Expedition & 251st Ball Tickets*, or Berlin’s alpine winter ruck.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="public/landing/coin-tokyo.png" alt="Tokyo Cherry Blossom Coin"><br><sub>Tokyo</sub></td>
+    <td align="center" width="25%"><img src="public/landing/coin-nairobi.png" alt="Nairobi Lion Gate Coin"><br><sub>Nairobi</sub></td>
+    <td align="center" width="25%"><img src="public/landing/coin-berlin.png" alt="Berlin Gate Coin"><br><sub>Berlin</sub></td>
+    <td align="center" width="25%"><img src="public/landing/coin-bogota.png" alt="Bogotá Condor Coin"><br><sub>Bogotá</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="public/landing/coin-singapore.png" alt="Singapore Harbor Coin"><br><sub>Singapore</sub></td>
+    <td align="center"><img src="public/landing/coin-cairo.png" alt="Cairo Sun Disk Coin"><br><sub>Cairo</sub></td>
+    <td align="center"><img src="public/landing/coin-london.png" alt="London Crown Coin"><br><sub>London</sub></td>
+    <td align="center"><img src="public/landing/coin-honolulu.png" alt="Honolulu Hibiscus Coin"><br><sub>Honolulu</sub></td>
+  </tr>
+</table>
 
 ---
 
 ## Worldwide guard posts
 
-The **Detachment Roster** is a living directory of Marine Corps Embassy Security Group posts. Search by embassy, city, or region, then open a public profile.
+The **Detachment Roster** is a living directory of Marine Corps Embassy Security Group posts. Search by embassy, city, or region, then open a public storefront.
 
-<table>
-  <tr>
-    <td align="center" width="33%"><img src="public/landing/watch-nairobi.png" alt="MSG Det Nairobi — highlands trail"><br><sub>MSG Det Nairobi</sub></td>
-    <td align="center" width="33%"><img src="public/landing/watch-berlin.png" alt="MSG Det Berlin — night watch"><br><sub>MSG Det Berlin</sub></td>
-    <td align="center" width="33%"><img src="public/landing/watch-bogota.png" alt="MSG Det Bogotá — sunrise over the Sabana"><br><sub>MSG Det Bogotá</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="docs/screenshots/detachments.png" alt="Detachment roster with Tokyo and Nairobi MWR fund progress" width="920">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/det-tokyo.png" alt="MSG Det Tokyo public storefront" width="920">
+</p>
 
 **Each detachment page is a full storefront:**
 
 - Immersive hero with post, city, country, and region
 - Bio and Instagram handle
-- **MWR fund progress bar** — goal title, dollars raised, percent to goal
+- **MWR fund progress** — goal title, dollars raised, percent to goal
 - Shop the case by category (coins, shirts, patches, gear)
 - Chronicle of funded trips (completed, upcoming, planning)
 - Weekly Watch stories from that post
@@ -142,22 +117,23 @@ Featured dets wear a **Det of the Month** badge and get front-and-center merch o
 
 Unclassified photos, video stills, and stories from dets doing cool stuff around the world. It is the community loop on Detcoins — and the contest that picks Det of the Month.
 
-<table>
-  <tr>
-    <td align="center" width="50%"><img src="public/landing/det-tokyo-hero.png" alt="Takao at 0400 — Det of the Month"><br><sub>Det of the Month: Takao at 0400</sub></td>
-    <td align="center" width="50%"><img src="public/landing/watch-singapore.png" alt="Singapore waterfront PT"><br><sub>Waterfront PT, then chow</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="docs/screenshots/weekly-watch-story.png" alt="Weekly Watchstander — Det of the Month story from MSG Det Tokyo" width="920">
+</p>
 
 **Readers** scroll a magazine-style feed: det name, date, callsign, story, and a link back to that det’s case.
 
-**Watchstanders** submit an unclassified adventure from the Weekly Watch or the Marine portal. Winning the month puts the det on the homepage hero — *Sunrise on Takao. Coins on the rail.* — and sponsors their merch front and center.
+**Watchstanders** submit an unclassified adventure from the Weekly Watch or the Marine portal. Winning the month puts the det on the homepage hero and sponsors their merch front and center.
 
 ---
 
 ## For Marines
 
-The **Marine Detachment Portal** is your post’s control center on Detcoins:
+The **Marine Detachment Portal** is your post’s control center on Detcoins — inventory, earnings, trips, and the public profile, in one signed-in workspace.
+
+<p align="center">
+  <img src="docs/screenshots/marine-portal.png" alt="Marine Detachment Portal — MSG Det Tokyo Control Center" width="920">
+</p>
 
 | In the portal | What you do |
 | --- | --- |
@@ -166,7 +142,7 @@ The **Marine Detachment Portal** is your post’s control center on Detcoins:
 | **Trips** | Log the rucks and MWR weekends the case actually funded. |
 | **Profile** | Update the public bio and the current MWR goal. |
 
-From the same portal, a det can **submit for Det of the Month** — title, callsign, and the unclassified story — without leaving the dashboard.
+From the same portal, a det can **submit for Det of the Month** without leaving the dashboard.
 
 If you stand post and want your case on Detcoins, request a Marine account at [hello@detcoins.com](mailto:hello@detcoins.com).
 
@@ -174,7 +150,11 @@ If you stand post and want your case on Detcoins, request a Marine account at [h
 
 ## For verified vendors
 
-The people who strike the coins, stitch the patches, and print the field frames.
+The people who strike the coins, stitch the patches, and print the field frames. **Vendor Radar** shows every det’s inventory so partners can restock before a post goes dry.
+
+<p align="center">
+  <img src="docs/screenshots/vendor-radar.png" alt="Verified vendor portal — Forge & Enamel Co. inventory radar" width="920">
+</p>
 
 <table>
   <tr>
@@ -184,36 +164,31 @@ The people who strike the coins, stitch the patches, and print the field frames.
   </tr>
 </table>
 
-**Vendor Radar** shows every det’s inventory with stock health:
+Stock health on the radar:
 
 - **Critical** — 10 or fewer left
 - **Low** — 20 or fewer
 - **Healthy** — keep the line moving
 
-Verified partners send a **resupply proposal** (item type, batch size, notes) straight to the det’s control center, and track active sponsorships from one screen.
+Verified partners send a **resupply proposal** (item type, batch size, notes) straight to the det’s control center.
 
 Craft shops that already supply MSG dets can apply for a verified vendor seat at [hello@detcoins.com](mailto:hello@detcoins.com).
 
 ---
 
-## What’s on the site
+## Three ways in
 
-| You want to… | On Detcoins |
+| You are… | On Detcoins you… |
 | --- | --- |
-| See who’s featured this month | Homepage — Det of the Month hero and sponsored merch |
-| Buy a coin or unit gear | Marketplace — search, filter, quick buy |
-| Follow a specific embassy post | Detachment roster and public cases |
-| Read unclassified field stories | The Weekly Watchstander |
-| Run your det’s shop | Marine Detachment Portal |
-| Restock worldwide posts | Verified Vendor Radar |
+| A collector or civilian | Browse the marketplace, open a det’s case, and **Support Det** |
+| A Marine standing post | Run inventory, earnings, trips, and Det of the Month from the Marine portal |
+| A coin, patch, or print shop | Watch the global inventory radar and send resupply offers |
 
-The site is built for dark and light viewing. The visual language is embassy-night photography, serif headlines, and scarlet Marine accents — a service that looks like the culture it serves.
+There is nothing to install. Detcoins is a privately owned web service you open in the browser.
 
 ---
 
 ## Get on Detcoins
-
-Detcoins is a privately owned web service. There is nothing to download or install. When the marketplace opens, collectors shop in the browser; Marines and vendors sign in to their portals.
 
 | If you are… | What to do now |
 | --- | --- |
