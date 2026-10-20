@@ -109,8 +109,6 @@ Inventory radar covers accepted posts:
 
 Embassy coin proposals carry a quantity cap and an authenticity stamp. The handover stays at the post.
 
-Shops that already supply MSG detachments can write [hello@detcoins.com](mailto:hello@detcoins.com).
-
 ---
 
 <p align="center"><em>Stand the watch. Shop the case. Keep the det moving.</em></p>
