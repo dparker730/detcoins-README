@@ -13,6 +13,11 @@
   Proceeds fund detachment MWR.
 </p>
 
+<p align="center">
+  This is a preview. The posts, coins, and fund totals in the screenshots are sample data. No detachment or vendor has joined, and the site is not open for orders.
+</p>
+
+
 ---
 
 ## Home
